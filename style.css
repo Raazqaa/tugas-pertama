@@ -1,0 +1,46 @@
+*{
+    font-family: verdana;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(assets/image/bg2.webp);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.content{
+    width: 40%;
+    text-align: center;
+    background-color: white;
+    margin: auto;
+}
+#p1{
+    padding: 5px;
+}
+#gambar1{
+    width: 40%;   
+}
+.gambar1{
+    margin:5px;
+}
+.ul{
+    width: 400px;
+    margin: auto;
+    text-align: left;
+}
+#gambar2{
+    width: 90%;
+}
+
+.gambar2{
+    margin:10px;
+    margin-top:10px;
+}
+img{
+    padding: 10px 20px;
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
